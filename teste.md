@@ -1,7 +1,6 @@
 # GroupCHW
 Repositório criado para fazermos o trabalho de Linguagem de Programação pedido pela professora Elisângela Bibá.
 
-#IFRO
 #2º DE INFORMÁTICA MATUTINO
 #Caroliny De Matos Chaves, Helen Vitória S Fraça e Walleri Vitória P Chaves
 #POO
